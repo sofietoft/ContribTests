@@ -5,15 +5,14 @@
 ## Github
 
 * [Pull Requests](github/pull-requests.md)
-* [Issues](github/index.md)
+* [Issues](github/issues.md)
 
 ## Structure
 
-* [Filenames](structure/index.md)
+* [Filenames](structure/filenames.md)
 
 ## Style and Syntax
 
-* [Style guide](style-and-syntax/index.md)
-* [Markdown](style-and-syntax/index-1.md)
-* [Meta data](style-and-syntax/index-2.md)
-
+* [Style guide](style-and-syntax/style-guide.md)
+* [Markdown](style-and-syntax/markdown.md)
+* [Meta data](style-and-syntax/metadata.md)

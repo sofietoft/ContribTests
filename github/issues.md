@@ -9,7 +9,7 @@ meta.Description: >-
 
 # Issues
 
-## What is an Issue?
+## What is an Issue
 
 The [Issue Tracker](https://github.com/umbraco/UmbracoDocs/issues) is a way to keep track of ideas for new documentation, issues on wrong or outdated documentation and it's also a place where you can discuss the documentation with other contributors.
 
@@ -33,4 +33,3 @@ You can also add an issue directly from the [Issue Tracker on GitHub](https://gi
 ![New issue on GitHub](../.gitbook/assets/new-issue.png)
 
 We've setup a template that we recommend using when creating an Issue on the tracker. The template gives you a few questions to answer, in order to give the best explanation of what you are reporting / want to discuss.
-

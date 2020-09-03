@@ -66,4 +66,3 @@ If you make a pull request to any Umbraco repository that gets merged, you will 
 ![Contributor badge on Our](.gitbook/assets/c-trib-badge.png)
 
 The Documentation Curators will search for your profile when merging a PR and add the badge. If it has been forgotten, make a comment on the closed/merged PR and we will do it as soon as possible!
-
