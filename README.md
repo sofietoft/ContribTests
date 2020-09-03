@@ -10,9 +10,9 @@ In this section you can learn more about the various ways of contributing.
 
 There are many ways in which you can contribute to the Umbraco Documentation. Which approach to take, depends on what you want to achieve with your contribution.
 
-* Request a quick / minor change to an article by submitting a [Pull Request](Pull-Requests/#option-1-creating-a-pr-directly-on-github)
-* Submit a more extensive update / change by [forking the Documentation repository](Pull-Requests/#options-2-creating-a-pr-through-a-fork)
-* Raise a question, start a discussion or report an issue on the [Issue Tracker](Issues/)
+* Request a quick / minor change to an article by submitting a [Pull Request](Pull-Requests/index.md#option-1-creating-a-pr-directly-on-github)
+* Submit a more extensive update / change by [forking the Documentation repository](Pull-Requests/index.md#options-2-creating-a-pr-through-a-fork)
+* Raise a question, start a discussion or report an issue on the [Issue Tracker](Issues/index.md)
 
 ## [Style guide](Style-Guide/index.md)
 
@@ -41,11 +41,11 @@ On both Issues and Pull Requests we use labels to categories the various request
 
 Here's a quick explanation of the labels groups (colors) we use:
 
-- **Category** (e.g. `category/missing-documentation`, `category/umbraco-cloud`, `category/pending-release`)
-- **Community** (e.g. `community/pr`, `help wanted`)
-- **State** (e.g. `state/hq-discussion`)
-- **Status** (e.g. `status/awaiting-feedback`, `status/idea`)
-- **Type** (e.g. `type/bug`)
+* **Category** (e.g. `category/missing-documentation`, `category/umbraco-cloud`, `category/pending-release`)
+* **Community** (e.g. `community/pr`, `help wanted`)
+* **State** (e.g. `state/hq-discussion`)
+* **Status** (e.g. `status/awaiting-feedback`, `status/idea`)
+* **Type** (e.g. `type/bug`)
 
 Labels will be added to your Pull Request or Issue once it has been reviewed.
 
