@@ -1,4 +1,4 @@
-# Textbox
+# Textbox Property
 
 `Alias: Umbraco.Textbox`
 
@@ -10,22 +10,22 @@ Textbox is an HTML input control for text. It can be configured to have a fixed 
 
 ### Without a character limit
 
-![Textbox Data Type Definition](images/Textbox-Setup-v8.png)
-
-## Settings
+![](../.gitbook/assets/textbox-setup-v8.png)
 
 ## Content Example
 
 ### Without a character limit
 
-![Textbox Content Example](images/Textbox-Content-v8.png)
+![](../.gitbook/assets/textbox-content-v8.png)
 
 ### With a character limit
 
-![Textbox Content Example Without a Character Limit](images/Textbox-Content-Limit-v8.png)
+![](../.gitbook/assets/textbox-content-limit-v8.png)
 
 ## MVC View Example
 
+{% tabs %}
+{% tab title="v.8" %}
 ```csharp
 @{
     if (Model.HasValue("pageTitle")){
@@ -33,3 +33,16 @@ Textbox is an HTML input control for text. It can be configured to have a fixed 
     }
 }
 ```
+{% endtab %}
+
+{% tab title="v.7" %}
+```csharp
+@{
+    if (Model.Content.HasValue("pageTitle")){
+        <p>@(Model.Content.GetPropertyValue<string>("pageTitle"))</p>
+    }
+}
+```
+{% endtab %}
+{% endtabs %}
+
