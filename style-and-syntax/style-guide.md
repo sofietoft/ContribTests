@@ -65,7 +65,7 @@ This tells Vale to test all markdown files \(.md\) in the current directory \(.\
 
 ![Vale Output](https://github.com/sofietoft/ContribTests/tree/b4925c6fc368b3ce19dac119a8136c7206e519fc/Style-Guide/images/vale-output.png)
 
-So it tells you what file has issues, in this case `v8documentation.md`, it broke the [HeadingsPunctuation rule](index.md#punctuation-in-headings), and it did so the following places:
+So it tells you what file has issues, in this case `v8documentation.md`, it broke the [HeadingsPunctuation rule](style-guide.md#punctuation-in-headings), and it did so the following places:
 
 * Line 15, column 36
 * Line 59, column 15

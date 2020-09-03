@@ -98,8 +98,8 @@ The example above, will render like the following:
 
 ### Related articles
 
-* [Styled links](index-1.md)
-* [You can also add `inline code` to links](index-1.md)
+* [Styled links](markdown.md)
+* [You can also add `inline code` to links](markdown.md)
 
   :::
 

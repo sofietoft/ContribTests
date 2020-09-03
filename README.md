@@ -18,13 +18,13 @@ There are many ways in which you can contribute to the Umbraco Documentation. Wh
 
 * Request a quick / minor change to an article by submitting a [Pull Request](https://github.com/sofietoft/ContribTests/tree/b4925c6fc368b3ce19dac119a8136c7206e519fc/Pull-Requests/index.md#option-1-creating-a-pr-directly-on-github)
 * Submit a more extensive update / change by [forking the Documentation repository](https://github.com/sofietoft/ContribTests/tree/b4925c6fc368b3ce19dac119a8136c7206e519fc/Pull-Requests/index.md#options-2-creating-a-pr-through-a-fork)
-* Raise a question, start a discussion or report an issue on the [Issue Tracker](github/index.md)
+* Raise a question, start a discussion or report an issue on the [Issue Tracker](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/github/index.md)
 
-## [Style guide](style-and-syntax/index.md)
+## [Style guide](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/style-and-syntax/index.md)
 
 We have a few rules to follow when writing documentation, don't worry they are quite easy to follow and we have some tools you can use to help.
 
-## [Format, naming conventions and files](style-and-syntax/index-1.md)
+## [Format, naming conventions and files](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/style-and-syntax/index-1.md)
 
 The Umbraco Documentation is written using the MarkDown markup language. We've put together an article where you can learn more about MarkDown [here](https://our.umbraco.com/Documentation/Contribute/Markdown-Conventions). You will also find an overview of the folder and file structure we use.
 
@@ -34,10 +34,10 @@ Whenever a new version of Umbraco is released new features might introduced and 
 
 Therefor we've introduced **versioned documentation**, which includes 2 different mechanisms:
 
-1. The [YAML meta data](style-and-syntax/index-2.md) describing `versionFrom` and `versionTo`.
-2. The possibility to [add multiple files about the same topic](structure/index.md)
+1. The [YAML meta data](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/style-and-syntax/index-2.md) describing `versionFrom` and `versionTo`.
+2. The possibility to [add multiple files about the same topic](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/structure/index.md)
 
-## [Adding meta data](style-and-syntax/index-2.md)
+## [Adding meta data](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/style-and-syntax/index-2.md)
 
 You can add meta data to any article in the Umbraco Documentation. This includes `meta title` and `meta description` as well as information on the versioning of the article.
 
@@ -66,3 +66,4 @@ If you make a pull request to any Umbraco repository that gets merged, you will 
 ![Contributor badge on Our](.gitbook/assets/c-trib-badge.png)
 
 The Documentation Curators will search for your profile when merging a PR and add the badge. If it has been forgotten, make a comment on the closed/merged PR and we will do it as soon as possible!
+
