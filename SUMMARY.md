@@ -22,6 +22,7 @@
 
 * [Umbraco Forms in the database](examples-from-docs/umbraco-forms-in-the-database.md)
 * [Working locally with Cloud](examples-from-docs/working-locally-with-umbraco-cloud.md)
+* [Textbox Property](examples-from-docs/textbox-property.md)
 
 ---
 
