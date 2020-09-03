@@ -25,13 +25,17 @@ If you do not have Git installed on your computer, you should also follow the [i
 
 ### Step 1: Creating a fork
 
-Once you have setup Git you can create a fork of the [Umbraco Documentation repository](https://github.com/umbraco/UmbracoDocs/).
+Once you have set up Git you can create a fork of the [Umbraco Documentation repository](https://github.com/umbraco/UmbracoDocs/).
 
-When you make a fork, you get a copy of the whole repository on your own GitHub profile. You can create a fork by clicking the fork button at the top of the screen: ![Creating a fork](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/github/images/fork-repository.png)
+When you make a fork, you get a copy of the whole repository on your own GitHub profile. You can create a fork by clicking the fork button at the top of the screen:
+
+![](../.gitbook/assets/fork-repository.png)
 
 Once the fork has been created you will have your own copy of the documentation. If you clone your fork, you will have all the files on your computer which means you can make changes to a lot of files and then push all the changes back up to your fork in one go.
 
-When you are done and happy with the changes you've made, you can submit a pull request to sync your copy with the "real" repository: ![Fork of documentation](https://github.com/sofietoft/ContribTests/tree/bad19a9702b35be7ef7bd44370da82497f849387/github/images/example-of-fork.png)
+When you are done and happy with the changes you've made, you can submit a pull request to sync your copy with the "real" repository: 
+
+![](../.gitbook/assets/example-of-fork.png)
 
 ### Step 2: Syncing your fork
 
