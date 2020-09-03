@@ -4,7 +4,7 @@ description: This is some Heartcore stuff
 
 # Testing API stuff
 
-{% api-method method="get" host="/media" path="" %}
+{% api-method method="get" host="https://cdn.umbraco.io/media" path="" %}
 {% api-method-summary %}
 Get root media
 {% endapi-method-summary %}
