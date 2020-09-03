@@ -1,16 +1,19 @@
-# Summary
+# Table of contents
+
+* [Contribute to the Umbraco Documentation](README.md)
 
 ## Github
 
-* [Pull Requests](Pull-Request/index.md)
-* [Issues](Issues/index.md)
+* [Pull Requests](github/pull-requests.md)
+* [Issues](github/index.md)
 
 ## Structure
 
-* [Filenames](File-Naming-Conventions/index.md)
+* [Filenames](structure/index.md)
 
 ## Style and Syntax
 
-* [Style guide](Style-Guide/index.md)
-* [Markdown](Markdown-Conventions/index.md)
-* [Meta data](Adding-Metadata/index.md)
+* [Style guide](style-and-syntax/index.md)
+* [Markdown](style-and-syntax/index-1.md)
+* [Meta data](style-and-syntax/index-2.md)
+
