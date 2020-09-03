@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Contribute to the Umbraco Documentation](README.md)
+* [Welcome](README.md)
 
 ## Github
 
