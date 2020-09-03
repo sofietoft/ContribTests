@@ -16,7 +16,7 @@ Get all media at the root of the tree.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter name="Umb-Project-Alias" type="string" required=true %}
+{% api-method-parameter name="Umb-Project-Alias" type="number" required=true %}
 {project alias}
 {% endapi-method-parameter %}
 
@@ -117,7 +117,7 @@ Get all media at the root of the tree.
 
 {% api-method method="put" host="https://api.umbraco.io" path="/content/{id}/publish" %}
 {% api-method-summary %}
-Publich content
+Publish content
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -126,6 +126,16 @@ Publish a specific content item with all language variation specific language.
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="Umb-Project-Alias" type="string" required=false %}
+Needs to be the alias for the Heartcore project
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Api-Version" type="number" required=false %}
+Specify the API version used
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
 {% api-method-query-parameters %}
 {% api-method-parameter name="culture" type="string" required=true %}
 Use language/variation alias, eg. "en-US"
@@ -220,6 +230,16 @@ Delete a specific content item with all its language variations.
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="Umb-Project-Alias" type="string" required=false %}
+Needs to be the alias for the Heartcore project
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="Api-Version" type="number" required=false %}
+Specify the API version used
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+{% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
