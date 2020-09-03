@@ -4,7 +4,7 @@ description: >-
   and contributing documentation articles to the UmbracoDocs.
 ---
 
-# Contribute to the Umbraco Documentation
+# Welcome
 
 The Umbraco Documentation is presented here on [Our Umbraco](https://our.umbraco.com/documentation), but is in fact also a [GitHub repository](https://github.com/umbraco/UmbracoDocs) and it is as open source as the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS).
 
