@@ -21,4 +21,5 @@
 ## Examples from Docs
 
 * [Umbraco Forms in the database](examples-from-docs/umbraco-forms-in-the-database.md)
+* [Working locally with Cloud](examples-from-docs/working-locally-with-Umbraco-Cloud.md)
 
