@@ -111,7 +111,7 @@ Indent your sample with 4 spaces, which will cause it to be rendered as `<pre><c
 
 Use \# for the headline, \#\# for sub headers and \#\#\# for parameters \(on code reference pages\)
 
-For optional parameters wrap in  _\(underscore\) - end result: \`\#\#\#\_optionalParameter_\`
+For optional parameters wrap in _\(underscore\) - end result: \`\#\#\#\_optionalParameter_\`
 
 ## Adding notes, warnings, tips
 
