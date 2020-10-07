@@ -9,6 +9,8 @@ The Umbraco Documentation uses Markdown for all the articles - but more precisel
 
 In this article you can learn how to use Markdown, as well as how we structure the files.
 
+This part here, is written on Github in order to test whether Gitbook fetches it into the Docs over there.
+
 ## Structure
 
 For the documentation project, each individual topic is contained in its own folder. Each folder must have an `index.md` file which links to the individual sub-pages, if images are used, these must be in `images` folders next to the .md file referencing them relatively.
